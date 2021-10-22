@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://gist.githubusercontent.com/keexers/97e6a306af29785093af138689cd9434/raw/54976d6e239a32eef876154d3f70f7717989d973/roblos"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/itsweekly/staraim/main/circle.lua"))()
 Aiming.TeamCheck(false)
 
 -- // Services
